@@ -82,17 +82,3 @@ result = agentic_graph.invoke({
 })
 print(result["final_label"], result["confidence"], result["explanation"])
 ```
-
----
-
-## Citation
-
-```bibtex
-@article{hridoy_chiralnet,
-  title   = {Agentic vision-language reasoning identifies chiral charge order
-             in quantum materials},
-  author  = {Hridoy, Hossain and Chowdhury, Tahiya and Hossain, Md Shafayat},
-  note    = {Manuscript; code available at https://github.com/uHridoy/ChiralNet},
-  year    = {2026}
-}
-```
